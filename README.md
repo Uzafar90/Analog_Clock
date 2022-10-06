@@ -16,7 +16,4 @@
 ### License
 [MIT License](LICENSE)
 
-<hr/>
 
-### License
-[MIT License](LICENSE)
